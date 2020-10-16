@@ -32,5 +32,8 @@ We aligned putative amino acid sequences, which translated from the ISGC, agains
 Quantification of gene, KOand species/  
 gene, KO, ARGs and species abundance estimations.  
 
+aging-omics analyses/  
+Statistical analysis script and multi-omics analysis script
+
 
 
